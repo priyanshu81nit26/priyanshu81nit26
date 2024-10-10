@@ -1,7 +1,11 @@
-<p align="center">
-  <strong style="font-size: 24px;">I'M PRIYANSHU SHARMA</strong><br/>
-  <em>COMPUTER SCIENCE AND ENGINEERING UNDERGRAD AT NIT HAMIRPUR</em>
+<p align="center" style="position: relative; font-size: 24px;">
+  <span style="color: rgba(0, 0, 0, 0.1); font-size: 120px; font-weight: bold; position: absolute; top: -50px; left: 50%; transform: translateX(-50%); z-index: -1;">
+    PRIYANSHU
+  </span>
+  <strong style="font-size: 36px; position: relative; z-index: 1;">I'M PRIYANSHU SHARMA</strong><br/>
+  <em style="position: relative; z-index: 1;">COMPUTER SCIENCE AND ENGINEERING UNDERGRAD AT NIT HAMIRPUR</em>
 </p>
+
 
 - 🔭 I’m currently working on full-stack projects.
 - 🌱 I’m currently learning React, Node.js, and DSA.
@@ -15,6 +19,9 @@
   </a>
   <a href="https://x.com/Priyanshu_S81?t=fWyS6K78NCb8WvbYF1SEhg&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:priyanshu81nit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
