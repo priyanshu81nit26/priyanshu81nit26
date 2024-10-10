@@ -1,10 +1,11 @@
 <p align="center" style="position: relative; font-size: 24px;">
-  <span style="color: rgba(0, 0, 0, 0.1); font-size: 120px; font-weight: bold; position: absolute; top: -50px; left: 50%; transform: translateX(-50%); z-index: -1;">
+  <span style="color: rgba(0, 0, 0, 0.1); font-size: 120px; font-weight: bold; position: absolute; top: -120px; left: 50%; transform: translateX(-50%); z-index: -1;">
     PRIYANSHU
   </span>
   <strong style="font-size: 36px; position: relative; z-index: 1;">I'M PRIYANSHU SHARMA</strong><br/>
   <em style="position: relative; z-index: 1;">COMPUTER SCIENCE AND ENGINEERING UNDERGRAD AT NIT HAMIRPUR</em>
 </p>
+
 
 
 - 🔭 I’m currently working on full-stack projects.
