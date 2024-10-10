@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Priyanshu Sharma
 
-<!--
-**priyanshu81nit26/priyanshu81nit26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on full-stack projects.
+- 🌱 I’m currently learning React, Node.js, and DATA STRUCTURES AND ALGORITHMS.
+- 📫 Reach me at [priyanshu81nit@gmail.com](mailto:priyanshu81nit@gmail.com)
+- 💬 Ask me about competitive programming or web development.
 
-Here are some ideas to get you started:
+### GitHub Stats
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu81nit26&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu81nit26&layout=compact&theme=radical)
+
