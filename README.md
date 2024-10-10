@@ -1,13 +1,8 @@
-<p align="center" style="position: relative; font-size: 24px; line-height: 1.2;">
-  <!-- Background text -->
-  <span style="color: rgba(0, 0, 0, 0.05); font-size: 150px; font-weight: bold; position: absolute; top: 20px; left: 50%; transform: translateX(-50%); z-index: -1;">
-    PRIYANSHU
-  </span>
-  
-  <!-- Foreground text -->
-  <strong style="font-size: 36px; position: relative; z-index: 1;">I'M PRIYANSHU SHARMA</strong><br/>
-  <em style="position: relative; z-index: 1;">COMPUTER SCIENCE AND ENGINEERING UNDERGRAD AT NIT HAMIRPUR</em>
+<p align="center">
+  <strong style="font-size: 24px;">I'M PRIYANSHU SHARMA</strong><br/>
+  <em>COMPUTER SCIENCE AND ENGINEERING UNDERGRAD AT NIT HAMIRPUR</em>
 </p>
+
 
 
 
@@ -29,6 +24,56 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+### Skills & Technologies
+<p align="center">
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://developers.google.com/web/tools/chrome-devtools" target="_blank">
+    <img src="https://img.shields.io/badge/Chrome%20DevTools-%234A8EBA.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2E8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  </a>
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://img.shields.io/badge/REST%20API-%232E7BBF.svg?style=for-the-badge&logo=restapi&logoColor=white" alt="REST API" />
+  </a>
+</p>
+
 
 ### GitHub Stats
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu81nit26&show_icons=true&theme=radical)
