@@ -12,7 +12,11 @@
 - 📫 Reach me at [priyanshu81nit@gmail.com](mailto:priyanshu81nit@gmail.com)
 - 💬 Ask me about competitive programming or web development.
 
-### Connect with me:
+
+<p align="center">
+  <strong style="font-size: 24px;">CONNECT WITH ME</strong><br/>
+  
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshu-sharma81nit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
